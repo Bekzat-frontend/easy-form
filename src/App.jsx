@@ -1,12 +1,8 @@
 import React from "react";
-import MyForm from "./components/MyForm";
+import AppRouter from "./components/router/AppRouter";
 
 function App() {
-  return (
-    <div>
-      <MyForm />
-    </div>
-  );
+  return <AppRouter />;
 }
 
 export default App;
