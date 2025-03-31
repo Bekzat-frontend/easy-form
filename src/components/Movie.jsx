@@ -1,6 +1,6 @@
 import React from "react";
 
-function Moive() {
+function Movie() {
   return (
     <div>
       <h1>Movie</h1>
@@ -12,4 +12,4 @@ function Moive() {
   );
 }
 
-export default Moive;
+export default Movie;
